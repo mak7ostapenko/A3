@@ -1,0 +1,11 @@
+input/*
+output/*
+.idea/*
+__pycache__
+.ipynb_checkpoints
+model_data/*
+
+*.pyc
+*.swp
+*.swo
+*.swn
